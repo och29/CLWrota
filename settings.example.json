@@ -1,0 +1,50 @@
+{
+    "departments": [
+        {
+            "shortname": "shortname",
+            "system": "clwrota",
+            "auth": {
+                "username": "",
+                "password": ""
+            }
+        },
+        {
+            "shortname": "shortname",
+            "system": "medirota",
+            "auth": {
+                "username": "",
+                "password": ""
+            }
+        }
+    ],
+    "day_range": "2",
+    "additional_fields": {
+        "additional_field_key": "Additional field value"
+    },
+    "required_fields": [
+        "gmc_number",
+        "location_external_code"
+    ],
+    "return_data_set": {
+        "date": "Date",
+        "day": "Day",
+        "session": "Session",
+        "person": "Person",
+        "assignment_number": "Assignment number",
+        "gmc_number": "GMC number",
+        "role": "Role",
+        "location": "Location",
+        "location_type": "Location type",
+        "location_external_code": "Location external code",
+        "title": "Title",
+        "speciality": "Speciality",
+        "assignment_type": "Assignment type",
+        "pa_value": "PA value",
+        "session_value": "Session value",
+        "start_time": "Start time",
+        "end_time": "End time",
+        "rota_state": "Rota state",
+        "modified": "Modified",
+        "additional_field_key": "Additional field"
+    }
+}
